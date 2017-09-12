@@ -18,6 +18,9 @@ h1 {
 
 .nounderline{text-decoration: none}
  */
+a:hover {
+  text-decoration: none; }
+
 /*
  * Sidebar
  */
