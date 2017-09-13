@@ -14,13 +14,20 @@ h1 {
   border-bottom: 1px solid #eee; }
 
 /*
- * a style
+ * a style */
+  .nodecor 
+        {
+            text-decoration: none;
+        }
 
+<<<<<<< HEAD
+=======
 .nounderline{text-decoration: none}
  */
 a:hover {
   text-decoration: none; }
 
+>>>>>>> bda5eace17193e61a7845f1de21e4ceff68162b2
 /*
  * Sidebar
  */
