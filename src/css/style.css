@@ -96,3 +96,7 @@ a.nav-link {
  */
 .mr-left-auto {
   margin-left: auto; }
+
+@media screen and (max-width: 1280px) {
+  #logo {
+    width: 158px; } }
